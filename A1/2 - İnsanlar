@@ -1,0 +1,70 @@
+{
+  "words": [
+    {
+      "word_de": "Mann",
+      "word_tr": "adam",
+      "example_de": "Der Mann ging die Straße entlang.",
+      "example_tr": "Adam sokakta yürüyordu."
+    },
+    {
+      "word_de": "Frau",
+      "word_tr": "kadın",
+      "example_de": "Die Frau liest ein Buch im Park.",
+      "example_tr": "Kadın parkta kitap okuyor."
+    },
+    {
+      "word_de": "Junge",
+      "word_tr": "erkek çocuk",
+      "example_de": "Der Junge spielt mit seinem Spielzeugauto.",
+      "example_tr": "Erkek çocuk oyuncak arabasıyla oynuyor."
+    },
+    {
+      "word_de": "Mädchen",
+      "word_tr": "kız çocuk",
+      "example_de": "Das Mädchen fährt mit ihrem Fahrrad im Park.",
+      "example_tr": "Kız çocuk parkta bisiklet sürüyor."
+    },
+    {
+      "word_de": "Freund",
+      "word_tr": "arkadaş",
+      "example_de": "Er ist mein bester Freund.",
+      "example_tr": "O benim en iyi arkadaşım."
+    },
+    {
+      "word_de": "Freund",
+      "word_tr": "erkek arkadaş",
+      "example_de": "Sie geht heute Abend mit ihrem Freund aus.",
+      "example_tr": "Bu akşam erkek arkadaşıyla dışarı çıkıyor."
+    },
+    {
+      "word_de": "Freundin",
+      "word_tr": "kız arkadaş",
+      "example_de": "Er trifft sich mit seiner Freundin zum Mittagessen.",
+      "example_tr": "Öğle yemeği için kız arkadaşıyla buluşuyor."
+    },
+    {
+      "word_de": "Person",
+      "word_tr": "kişi",
+      "example_de": "Jede Person hat ihre eigene Geschichte.",
+      "example_tr": "Her kişinin kendi hikayesi vardır."
+    },
+    {
+      "word_de": "Menschen",
+      "word_tr": "insanlar",
+      "example_de": "Der Park war voller Menschen, die die Sonne genossen.",
+      "example_tr": "Park, güneşin tadını çıkaran insanlarla doluydu."
+    },
+    {
+      "word_de": "Erwachsener",
+      "word_tr": "yetişkin",
+      "example_de": "Als Erwachsener haben Sie bestimmte Verantwortlichkeiten.",
+      "example_tr": "Yetişkin olarak, belirli sorumluluklarınız vardır."
+    },
+    {
+      "word_de": "Baby",
+      "word_tr": "bebek",
+      "example_de": "Das Baby schläft friedlich.",
+      "example_tr": "Bebek huzurlu bir şekilde uyuyor."
+    }
+  ]
+}
