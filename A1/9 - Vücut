@@ -1,0 +1,64 @@
+{
+  "words": [
+    {
+      "word_de": "Körper",
+      "word_tr": "vücut",
+      "example_de": "Der menschliche Körper ist ein komplexes Organismus.",
+      "example_tr": "İnsan vücudu karmaşık bir organizmadır."
+    },
+    {
+      "word_de": "Hand",
+      "word_tr": "el",
+      "example_de": "Sie winkte mit der Hand, um Hallo zu sagen.",
+      "example_tr": "Merhaba demek için elini salladı."
+    },
+    {
+      "word_de": "Finger",
+      "word_tr": "parmak",
+      "example_de": "Sie trug einen Ring an ihrem Finger.",
+      "example_tr": "Parmaklarında bir yüzük taktı."
+    },
+    {
+      "word_de": "Arm",
+      "word_tr": "kol",
+      "example_de": "Er hat sich beim Fußballspielen den Arm gebrochen.",
+      "example_tr": "Futbol oynarken kolunu kırdı."
+    },
+    {
+      "word_de": "Fuß",
+      "word_tr": "ayak",
+      "example_de": "Sie hat sich beim Wandern am Fuß verletzt.",
+      "example_tr": "Doğa yürüyüşü yaparken ayağına zarar verdi."
+    },
+    {
+      "word_de": "Bein",
+      "word_tr": "bacak",
+      "example_de": "Er hat sich bei einem Skiunfall am Bein verletzt.",
+      "example_tr": "Kayak kazasında bacağını incitti."
+    },
+    {
+      "word_de": "Knie",
+      "word_tr": "diz",
+      "example_de": "Sie fiel hin und schürfte sich das Knie auf.",
+      "example_tr": "Düştü ve dizi yaralandı."
+    },
+    {
+      "word_de": "Rücken",
+      "word_tr": "sırt",
+      "example_de": "Er trägt einen schweren Rucksack auf seinem Rücken.",
+      "example_tr": "Sırtında ağır bir sırt çantası taşıyor."
+    },
+    {
+      "word_de": "Herz",
+      "word_tr": "kalp",
+      "example_de": "Sport ist gut für das Herz.",
+      "example_tr": "Egzersiz kalp için iyidir."
+    },
+    {
+      "word_de": "Magen",
+      "word_tr": "mide",
+      "example_de": "Ihr Magen tat weh, nachdem sie zu viel gegessen hatte.",
+      "example_tr": "Çok fazla yedikten sonra midem ağrıdı."
+    }
+  ]
+}
