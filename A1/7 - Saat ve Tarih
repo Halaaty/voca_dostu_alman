@@ -1,0 +1,148 @@
+{
+  "words": [
+    {
+      "word_de": "Uhr",
+      "word_tr": "saat",
+      "example_de": "Die Uhr an der Wand zeigt die falsche Zeit an.",
+      "example_tr": "Duvardaki saat yanlış zamanı gösteriyor."
+    },
+    {
+      "word_de": "Jahr",
+      "word_tr": "yıl",
+      "example_de": "Nächstes Jahr planen wir, ins Ausland zu reisen.",
+      "example_tr": "Gelecek yıl, yurtdışına seyahat etmeyi planlıyoruz."
+    },
+    {
+      "word_de": "Zeit",
+      "word_tr": "zaman",
+      "example_de": "Die Zeit vergeht wie im Flug, wenn man Spaß hat.",
+      "example_tr": "Eğlenirken zaman hızla geçer."
+    },
+    {
+      "word_de": "Datum",
+      "word_tr": "tarih",
+      "example_de": "Was ist das Datum heute?",
+      "example_tr": "Bugünün tarihi nedir?"
+    },
+    {
+      "word_de": "Tag",
+      "word_tr": "gün",
+      "example_de": "Heute ist ein schöner Tag.",
+      "example_tr": "Bugün güzel bir gün."
+    },
+    {
+      "word_de": "Stunde",
+      "word_tr": "saat",
+      "example_de": "Das Meeting beginnt in einer Stunde.",
+      "example_tr": "Toplantı bir saat içinde başlayacak."
+    },
+    {
+      "word_de": "Uhr",
+      "word_tr": "saat",
+      "example_de": "Lass uns um 3 Uhr treffen.",
+      "example_tr": "3'te buluşalım."
+    },
+    {
+      "word_de": "Minute",
+      "word_tr": "dakika",
+      "example_de": "Ich bin in wenigen Minuten da.",
+      "example_tr": "Birkaç dakika içinde orada olacağım."
+    },
+    {
+      "word_de": "Sekunde",
+      "word_tr": "saniye",
+      "example_de": "Sie zählte in nur wenigen Sekunden bis zehn.",
+      "example_tr": "Sadece birkaç saniyede ona kadar saydı."
+    },
+    {
+      "word_de": "Morgen",
+      "word_tr": "sabah",
+      "example_de": "Ich gehe gerne morgens spazieren.",
+      "example_tr": "Sabahları yürüyüş yapmayı severim."
+    },
+    {
+      "word_de": "Nachmittag",
+      "word_tr": "öğleden sonra",
+      "example_de": "Lass uns am Nachmittag auf einen Kaffee treffen.",
+      "example_tr": "Öğleden sonra kahve için buluşalım."
+    },
+    {
+      "word_de": "Abend",
+      "word_tr": "akşam",
+      "example_de": "Wir essen normalerweise abends zusammen zu Abend.",
+      "example_tr": "Akşamları genellikle birlikte akşam yemeği yeriz."
+    },
+    {
+      "word_de": "Nacht",
+      "word_tr": "gece",
+      "example_de": "Die Sterne leuchten hell am Nachthimmel.",
+      "example_tr": "Yıldızlar gece gökyüzünde parlaklık kazanır."
+    },
+    {
+      "word_de": "Woche",
+      "word_tr": "hafta",
+      "example_de": "Wir machen einmal pro Woche Lebensmitteleinkäufe.",
+      "example_tr": "Haftada bir market alışverişi yapıyoruz."
+    },
+    {
+      "word_de": "Sonntag",
+      "word_tr": "Pazar",
+      "example_de": "Wir haben jeden Sonntag einen Familienbrunch.",
+      "example_tr": "Her Pazar ailece brunch yapıyoruz."
+    },
+    {
+      "word_de": "Montag",
+      "word_tr": "Pazartesi",
+      "example_de": "Ich habe jeden Montagmorgen eine Besprechung.",
+      "example_tr": "Her Pazartesi sabahı bir toplantım var."
+    },
+    {
+      "word_de": "Dienstag",
+      "word_tr": "Salı",
+      "example_de": "Wir gehen normalerweise dienstags abends tacos essen.",
+      "example_tr": "Salı geceleri genellikle taco yemeye çıkarız."
+    },
+    {
+      "word_de": "Mittwoch",
+      "word_tr": "Çarşamba",
+      "example_de": "Mittwoch ist die Mitte der Arbeitswoche.",
+      "example_tr": "Çarşamba iş haftasının ortasıdır."
+    },
+    {
+      "word_de": "Donnerstag",
+      "word_tr": "Perşembe",
+      "example_de": "Wir haben jeden Donnerstagnachmittag ein wöchentliches Teamtreffen.",
+      "example_tr": "Perşembe öğleden sonraları haftalık takım toplantımız var."
+    },
+    {
+      "word_de": "Freitag",
+      "word_tr": "Cuma",
+      "example_de": "Wir gehen diesen Freitag zum Abendessen aus.",
+      "example_tr": "Bu Cuma akşam yemeği için dışarı çıkıyoruz."
+    },
+    {
+      "word_de": "Samstag",
+      "word_tr": "Cumartesi",
+      "example_de": "Wir entspannen gerne und schauen samstags Filme.",
+      "example_tr": "Cumartesi günleri dinlenip film izlemeyi severiz."
+    },
+    {
+      "word_de": "Wochenende",
+      "word_tr": "hafta sonu",
+      "example_de": "Lassen Sie uns für das Wochenende eine Reise planen.",
+      "example_tr": "Hafta sonu için bir gezi planlayalım."
+    },
+    {
+      "word_de": "nächste",
+      "word_tr": "sonraki",
+      "example_de": "Wir werden es in der nächsten Besprechung besprechen.",
+      "example_tr": "Bunu bir sonraki toplantıda tartışacağız."
+    },
+    {
+      "word_de": "halb",
+      "word_tr": "yarım",
+      "example_de": "Wir fahren in einer halben Stunde los.",
+      "example_tr": "Yarım saat içinde ayrılacağız."
+    }
+  ]
+}
