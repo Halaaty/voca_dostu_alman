@@ -1,0 +1,112 @@
+{
+  "words": [
+    {
+      "word_de": "Monat",
+      "word_tr": "ay",
+      "example_de": "Mein Geburtstag ist im Monat August.",
+      "example_tr": "Doğum günüm Ağustos ayında."
+    },
+    {
+      "word_de": "Januar",
+      "word_tr": "Ocak",
+      "example_de": "Wir feiern Neujahr im Januar.",
+      "example_tr": "Yılbaşını Ocak ayında kutlarız."
+    },
+    {
+      "word_de": "Februar",
+      "word_tr": "Şubat",
+      "example_de": "Valentinstag ist im Februar.",
+      "example_tr": "Sevgililer Günü Şubat ayında."
+    },
+    {
+      "word_de": "März",
+      "word_tr": "Mart",
+      "example_de": "Wir haben normalerweise im März Frühlingsferien.",
+      "example_tr": "Genellikle bahar tatili Mart ayında olur."
+    },
+    {
+      "word_de": "April",
+      "word_tr": "Nisan",
+      "example_de": "April bringt Maiglöckchen.",
+      "example_tr": "Nisan yağmurları Mayıs çiçeklerini getirir."
+    },
+    {
+      "word_de": "Mai",
+      "word_tr": "Mayıs",
+      "example_de": "Mai ist ein schöner Monat für Outdoor-Aktivitäten.",
+      "example_tr": "Mayıs, dış mekan etkinlikleri için güzel bir aydır."
+    },
+    {
+      "word_de": "Juni",
+      "word_tr": "Haziran",
+      "example_de": "Juni ist der Beginn des Sommers.",
+      "example_tr": "Haziran yazın başlangıcıdır."
+    },
+    {
+      "word_de": "Juli",
+      "word_tr": "Temmuz",
+      "example_de": "Wir haben jeden Juli ein Familientreffen.",
+      "example_tr": "Her Temmuz aile buluşması yapıyoruz."
+    },
+    {
+      "word_de": "August",
+      "word_tr": "Ağustos",
+      "example_de": "August ist normalerweise heiß und sonnig.",
+      "example_tr": "Ağustos genellikle sıcak ve güneşlidir."
+    },
+    {
+      "word_de": "September",
+      "word_tr": "Eylül",
+      "example_de": "September markiert den Beginn des Herbstes.",
+      "example_tr": "Eylül sonbaharın başlangıcını işaret eder."
+    },
+    {
+      "word_de": "Oktober",
+      "word_tr": "Ekim",
+      "example_de": "Oktober ist bekannt für Halloween.",
+      "example_tr": "Ekim, Cadılar Bayramı ile tanınır."
+    },
+    {
+      "word_de": "November",
+      "word_tr": "Kasım",
+      "example_de": "November ist ein Monat der Dankbarkeit.",
+      "example_tr": "Kasım, minnettarlık ayıdır."
+    },
+    {
+      "word_de": "Dezember",
+      "word_tr": "Aralık",
+      "example_de": "Wir feiern Weihnachten im Dezember.",
+      "example_tr": "Noel'i Aralık ayında kutlarız."
+    },
+    {
+      "word_de": "Jahreszeit",
+      "word_tr": "mevsim",
+      "example_de": "Frühling ist meine Lieblingsjahreszeit.",
+      "example_tr": "Bahar benim favori mevsimimdir."
+    },
+    {
+      "word_de": "Frühling",
+      "word_tr": "bahar",
+      "example_de": "Blumen blühen im Frühling.",
+      "example_tr": "Çiçekler baharda açar."
+    },
+    {
+      "word_de": "Sommer",
+      "word_tr": "yaz",
+      "example_de": "Wir lieben es, im Sommer an den Strand zu gehen.",
+      "example_tr": "Yazın plaja gitmeyi severiz."
+    },
+    {
+      "word_de": "Herbst",
+      "word_tr": "sonbahar",
+      "example_de": "Die Blätter wechseln im Herbst die Farben.",
+      "example_tr": "Yapraklar sonbaharda renk değiştirir."
+    },
+    {
+      "word_de": "Winter",
+      "word_tr": "kış",
+      "example_de": "Im Winter fällt oft Schnee.",
+      "example_tr": "Kışın genellikle kar yağar."
+    }
+  ]
+}
