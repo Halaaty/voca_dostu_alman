@@ -1,0 +1,88 @@
+{
+  "words": [
+    {
+      "word_de": "Kopf",
+      "word_tr": "baş",
+      "example_de": "Sie legte ihren Kopf auf das Kissen.",
+      "example_tr": "Başını yastığa koydu."
+    },
+    {
+      "word_de": "Haar",
+      "word_tr": "saç",
+      "example_de": "Sie hat lange, braune Haare.",
+      "example_tr": "Uzun, kahverengi saçları var."
+    },
+    {
+      "word_de": "Gehirn",
+      "word_tr": "beyin",
+      "example_de": "Das Gehirn ist das Zentrum des Nervensystems.",
+      "example_tr": "Beyin, sinir sisteminin merkezidir."
+    },
+    {
+      "word_de": "Hals",
+      "word_tr": "boyun",
+      "example_de": "Sie trug eine Halskette um ihren Hals.",
+      "example_tr": "Boyun etrafına bir kolye taktı."
+    },
+    {
+      "word_de": "Gesicht",
+      "word_tr": "yüz",
+      "example_de": "Sie hat ein schönes Gesicht.",
+      "example_tr": "Güzel bir yüzü var."
+    },
+    {
+      "word_de": "Auge",
+      "word_tr": "göz",
+      "example_de": "Ihre Augen strahlten vor Freude.",
+      "example_tr": "Gözleri sevinçle parladı."
+    },
+    {
+      "word_de": "Augenbraue",
+      "word_tr": "kaş",
+      "example_de": "Sie hob ihre Augenbraue überrascht.",
+      "example_tr": "Şaşkınlıkla kaşlarını kaldırdı."
+    },
+    {
+      "word_de": "Nase",
+      "word_tr": "burun",
+      "example_de": "Er hat eine kleine Nase.",
+      "example_tr": "Küçük bir burnu var."
+    },
+    {
+      "word_de": "Ohr",
+      "word_tr": "kulak",
+      "example_de": "Sie flüsterte ihm ins Ohr.",
+      "example_tr": "Kulağına fısıldadı."
+    },
+    {
+      "word_de": "Wange",
+      "word_tr": "yanak",
+      "example_de": "Sie küsste ihn auf die Wange.",
+      "example_tr": "Ona yanaktan öptü."
+    },
+    {
+      "word_de": "Kinn",
+      "word_tr": "çene",
+      "example_de": "Lege dein Kinn auf deine Hand.",
+      "example_tr": "Çeneni eline daya."
+    },
+    {
+      "word_de": "Mund",
+      "word_tr": "ağız",
+      "example_de": "Sie lächelte und zeigte ihre Zähne.",
+      "example_tr": "Dişlerini göstererek gülümsedi."
+    },
+    {
+      "word_de": "Zahn",
+      "word_tr": "diş",
+      "example_de": "Sie ließ sich einen Zahn ziehen.",
+      "example_tr": "Dişi çektirdi."
+    },
+    {
+      "word_de": "Lippe",
+      "word_tr": "dudak",
+      "example_de": "Sie trug Lippenbalsam auf ihre trockenen Lippen auf.",
+      "example_tr": "Kuru dudaklarına dudak kremi sürdü."
+    }
+  ]
+}
