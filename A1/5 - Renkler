@@ -1,0 +1,88 @@
+{
+  "words": [
+    {
+      "word_de": "schwarz",
+      "word_tr": "siyah",
+      "example_de": "Sie trug ein schwarzes Kleid zur Party.",
+      "example_tr": "Partiye siyah bir elbise giydi."
+    },
+    {
+      "word_de": "weiß",
+      "word_tr": "beyaz",
+      "example_de": "Die Wände des Zimmers sind weiß gestrichen.",
+      "example_tr": "Odanın duvarları beyaza boyalı."
+    },
+    {
+      "word_de": "blau",
+      "word_tr": "mavi",
+      "example_de": "An einem klaren Tag ist der Himmel blau.",
+      "example_tr": "Bir açık gününde gökyüzü mavi."
+    },
+    {
+      "word_de": "grün",
+      "word_tr": "yeşil",
+      "example_de": "Die Blätter an den Bäumen werden im Frühling grün.",
+      "example_tr": "Ağaçlardaki yapraklar ilkbaharda yeşerir."
+    },
+    {
+      "word_de": "gelb",
+      "word_tr": "sarı",
+      "example_de": "Sie hat einen Strauß gelber Blumen gepflückt.",
+      "example_tr": "Sarı çiçeklerden bir buket seçti."
+    },
+    {
+      "word_de": "rot",
+      "word_tr": "kırmızı",
+      "example_de": "Das Stoppschild ist rot.",
+      "example_tr": "Dur işareti kırmızıdır."
+    },
+    {
+      "word_de": "rosa",
+      "word_tr": "pembe",
+      "example_de": "Sie hat ihr Zimmer rosa gestrichen.",
+      "example_tr": "Odasını pembe boyadı."
+    },
+    {
+      "word_de": "orange",
+      "word_tr": "turuncu",
+      "example_de": "Der Sonnenuntergang färbte den Himmel orange.",
+      "example_tr": "Günbatımı gökyüzünü turuncuya boyadı."
+    },
+    {
+      "word_de": "lila",
+      "word_tr": "mor",
+      "example_de": "Sie trug einen lila Schal.",
+      "example_tr": "Mor bir atkı taktı."
+    },
+    {
+      "word_de": "grau",
+      "word_tr": "gri",
+      "example_de": "Der Himmel war grau und bewölkt.",
+      "example_tr": "Gökyüzü gri ve bulutlu idi."
+    },
+    {
+      "word_de": "braun",
+      "word_tr": "kahverengi",
+      "example_de": "Er hat braune Augen.",
+      "example_tr": "Onun kahverengi gözleri var."
+    },
+    {
+      "word_de": "dunkel",
+      "word_tr": "koyu reng",
+      "example_de": "Der Raum war dunkel, weil das Licht aus war.",
+      "example_tr": "Işıklar kapalı olduğu için oda koyuydu."
+    },
+    {
+      "word_de": "hell",
+      "word_tr": "açık reng",
+      "example_de": "Sie bevorzugt helle Farben für ihr Schlafzimmer.",
+      "example_tr": "Yatak odası için açık renkleri tercih eder."
+    },
+    {
+      "word_de": "Farbe",
+      "word_tr": "renk",
+      "example_de": "Was ist deine Lieblingsfarbe?",
+      "example_tr": "En sevdiğin renk nedir?"
+    }
+  ]
+}
