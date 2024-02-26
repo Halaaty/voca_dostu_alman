@@ -1,1 +1,107 @@
+{
+  "words": [
+    {
+      "word_de": "hallo",
+      "word_tr": "merhaba",
+      "example_de": "Hallo, wie geht es Ihnen?",
+      "example_tr": "Merhaba, nasılsınız?"
+    },
+    {
+      "word_de": "auf Wiedersehen",
+      "word_tr": "hoşça kal",
+      "example_de": "Sie winkte zum Abschied, als der Zug aus dem Bahnhof fuhr.",
+      "example_tr": "Tren istasyondan ayrılırken el sallayarak hoşça kal dedi."
+    },
+    {
+      "word_de": "hallo",
+      "word_tr": "merhaba",
+      "example_de": "Hallo, nett, dich kennenzulernen!",
+      "example_tr": "Merhaba, tanıştığımıza memnun oldum!"
+    },
+    {
+      "word_de": "auf Wiedersehen",
+      "word_tr": "hoşça kal",
+      "example_de": "Okay, bis später. Bis bald!",
+      "example_tr": "Tamam, şimdilik hoşça kal. Sonra görüşürüz!"
+    },
+    {
+      "word_de": "guten Morgen",
+      "word_tr": "günaydın",
+      "example_de": "Guten Morgen, es ist ein schöner Tag!",
+      "example_tr": "Günaydın, harika bir gün!"
+    },
+    {
+      "word_de": "guten Tag",
+      "word_tr": "iyi öğlenler",
+      "example_de": "Guten Tag, wie kann ich Ihnen heute helfen?",
+      "example_tr": "İyi öğlenler, bugün size nasıl yardımcı olabilirim?"
+    },
+    {
+      "word_de": "guten Abend",
+      "word_tr": "iyi akşamlar",
+      "example_de": "Guten Abend, darf ich Ihre Bestellung aufnehmen?",
+      "example_tr": "İyi akşamlar, siparişinizi alabilir miyim?"
+    },
+    {
+      "word_de": "gute Nacht",
+      "word_tr": "iyi geceler",
+      "example_de": "Ich gehe ins Bett. Gute Nacht, alle zusammen!",
+      "example_tr": "Yatmaya gidiyorum. Herkese iyi geceler!"
+    },
+    {
+      "word_de": "danke",
+      "word_tr": "teşekkür ederim",
+      "example_de": "Danke für deine Hilfe!",
+      "example_tr": "Yardımınız için teşekkür ederim!"
+    },
+    {
+      "word_de": "danke",
+      "word_tr": "teşekkürler",
+      "example_de": "Vielen Dank für das Geburtstagsgeschenk!",
+      "example_tr": "Doğum günü hediyesi için çok teşekkür ederim!"
+    },
+    {
+      "word_de": "bitte",
+      "word_tr": "lütfen",
+      "example_de": "Kannst du mir bitte das Salz reichen?",
+      "example_tr": "Bana lütfen tuzu uzatabilir misin?"
+    },
+    {
+      "word_de": "okay",
+      "word_tr": "tamam",
+      "example_de": "Okay, lass uns mit dem Plan fortfahren.",
+      "example_tr": "Tamam, plana devam edelim."
+    },
+    {
+      "word_de": "ja",
+      "word_tr": "evet",
+      "example_de": "Ja, ich hätte gerne eine Tasse Tee, bitte.",
+      "example_tr": "Evet, bir fincan çay istiyorum, lütfen."
+    },
+    {
+      "word_de": "nein",
+      "word_tr": "hayır",
+      "example_de": "Nein, danke. Ich bin nicht interessiert.",
+      "example_tr": "Hayır, teşekkür ederim. İlgilenmiyorum."
+    },
+    {
+      "word_de": "entschuldigung",
+      "word_tr": "üzgünüm",
+      "example_de": "Entschuldigung für den Fehler, den ich gemacht habe.",
+      "example_tr": "Yaptığım hatadan dolayı üzgünüm."
+    },
+    {
+      "word_de": "willkommen",
+      "word_tr": "hoş geldiniz",
+      "example_de": "Willkommen in unserem Zuhause!",
+      "example_tr": "Evimize hoş geldiniz!"
+    },
+    {
+      "word_de": "beenden",
+      "word_tr": "hoş geldiniz",
+      "example_de": "Willkommen in unserem Zuhause!",
+      "example_tr": "Evimize hoş geldiniz!"
+    }
+  ]
+}
 
