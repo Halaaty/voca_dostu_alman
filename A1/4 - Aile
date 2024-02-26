@@ -1,0 +1,130 @@
+{
+  "words": [
+    {
+      "word_de": "Elternteil",
+      "word_tr": "ebeveyn",
+      "example_de": "Ein Elternteil zu sein ist eine lohnende Erfahrung.",
+      "example_tr": "Ebeveyn olmak ödüllendirici bir deneyimdir."
+    },
+    {
+      "word_de": "Vater",
+      "word_tr": "baba",
+      "example_de": "Mein Vater ist Arzt.",
+      "example_tr": "Babam bir doktordur."
+    },
+    {
+      "word_de": "Mutter",
+      "word_tr": "anne",
+      "example_de": "Ihre Mutter ist Lehrerin.",
+      "example_tr": "Annesi bir öğretmendir."
+    },
+    {
+      "word_de": "Papa",
+      "word_tr": "baba",
+      "example_de": "Papa, kannst du mir bei meinen Hausaufgaben helfen?",
+      "example_tr": "Baba, ödevimde bana yardımcı olabilir misin?"
+    },
+    {
+      "word_de": "Mama",
+      "word_tr": "anne",
+      "example_de": "Mama, können wir heute in den Park gehen?",
+      "example_tr": "Anne, bugün parka gidebilir miyiz?"
+    },
+    {
+      "word_de": "Ehefrau",
+      "word_tr": "eş (karı)",
+      "example_de": "Seine Ehefrau bereitet jeden Morgen Frühstück zu.",
+      "example_tr": "Eşi her sabah kahvaltı hazırlar."
+    },
+    {
+      "word_de": "Ehemann",
+      "word_tr": "eş (koca)",
+      "example_de": "Ihr Ehemann ist Pilot.",
+      "example_tr": "Kocası bir pilot."
+    },
+    {
+      "word_de": "Kind",
+      "word_tr": "çocuk",
+      "example_de": "Die Kinder spielen im Garten.",
+      "example_tr": "Çocuklar bahçede oynuyorlar."
+    },
+    {
+      "word_de": "Sohn",
+      "word_tr": "oğul (erkek çocuk)",
+      "example_de": "Sein Sohn möchte Feuerwehrmann werden, wenn er groß ist.",
+      "example_tr": "Oğlu büyüdüğünde itfaiyeci olmak istiyor."
+    },
+    {
+      "word_de": "Tochter",
+      "word_tr": "kız (kız çocuk)",
+      "example_de": "Ihre Tochter studiert Medizin.",
+      "example_tr": "Kızı tıp okuyor."
+    },
+    {
+      "word_de": "Schwester",
+      "word_tr": "kız kardeş",
+      "example_de": "Meine Schwester ist älter als ich.",
+      "example_tr": "Kız kardeşim benden büyük."
+    },
+    {
+      "word_de": "Bruder",
+      "word_tr": "erkek kardeş",
+      "example_de": "Sein Bruder ist ein talentierter Musiker.",
+      "example_tr": "Erkek kardeşi yetenekli bir müzisyen."
+    },
+    {
+      "word_de": "Familie",
+      "word_tr": "aile",
+      "example_de": "Wir sind eine fünfköpfige Familie.",
+      "example_tr": "Beş kişilik bir aileyiz."
+    },
+    {
+      "word_de": "Großmutter",
+      "word_tr": "büyükanne",
+      "example_de": "Seine Großmutter macht die besten Kekse.",
+      "example_tr": "Büyükanne en iyi kurabiyeleri yapar."
+    },
+    {
+      "word_de": "Großvater",
+      "word_tr": "büyükbaba",
+      "example_de": "Ihr Großvater erzählt faszinierende Geschichten.",
+      "example_tr": "Büyükbaba büyüleyici hikayeler anlatır."
+    },
+    {
+      "word_de": "Enkelkind",
+      "word_tr": "torun",
+      "example_de": "Ihr Enkelkind wird nächsten Monat eins.",
+      "example_tr": "Torunları önümüzdeki ay bir yaşına giriyor."
+    },
+    {
+      "word_de": "Tante",
+      "word_tr": "teyze/hala",
+      "example_de": "Seine Tante lebt auf dem Land.",
+      "example_tr": "Teyzesi kırsalda yaşıyor."
+    },
+    {
+      "word_de": "Onkel",
+      "word_tr": "amca/dayı",
+      "example_de": "Ihr Onkel ist ein erfolgreicher Geschäftsmann.",
+      "example_tr": "Dayısı başarılı bir işadamı."
+    },
+    {
+      "word_de": "Nichte",
+      "word_tr": "yeğen (kız)",
+      "example_de": "Seine Nichte besucht ihn aus der Stadt.",
+      "example_tr": "Kız yeğeni şehir dışından ziyarete geldi."
+    },
+    {
+      "word_de": "Neffe",
+      "word_tr": "yeğen (erkek)",
+      "example_de": "Ihr Neffe spielt gerne Videospiele.",
+      "example_tr": "Erkek yeğeni video oyunları oynamayı çok sever."
+    },
+    {
+      "word_de": "Cousin",
+      "word_tr": "kuzen",
+      "example_de": "Ihr Cousin lebt im Ausland.",
+      "example_tr": "Kuzenleri yurtdışında yaşıyor."
+    }
+  ]
+}
