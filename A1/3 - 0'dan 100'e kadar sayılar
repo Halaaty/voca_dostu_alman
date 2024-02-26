@@ -1,0 +1,226 @@
+{
+  "words": [
+    {
+      "word_de": "null",
+      "word_tr": "sıfır",
+      "example_de": "Die Temperatur draußen beträgt null Grad Celsius.",
+      "example_tr": "Dışarıdaki sıcaklık sıfır derece Celsius."
+    },
+    {
+      "word_de": "eins",
+      "word_tr": "bir",
+      "example_de": "Ich habe eine Schwester.",
+      "example_tr": "Bir kız kardeşim var."
+    },
+    {
+      "word_de": "zwei",
+      "word_tr": "iki",
+      "example_de": "Es liegen zwei Äpfel auf dem Tisch.",
+      "example_tr": "Masada iki elma var."
+    },
+    {
+      "word_de": "drei",
+      "word_tr": "üç",
+      "example_de": "Er hat drei Katzen.",
+      "example_tr": "Üç tane kedisi var."
+    },
+    {
+      "word_de": "vier",
+      "word_tr": "dört",
+      "example_de": "Sie hat vier Bücher aus dem Buchladen gekauft.",
+      "example_tr": "Kitapçıdan dört kitap satın aldı."
+    },
+    {
+      "word_de": "fünf",
+      "word_tr": "beş",
+      "example_de": "Es sind fünf Personen im Raum.",
+      "example_tr": "Odada beş kişi var."
+    },
+    {
+      "word_de": "sechs",
+      "word_tr": "altı",
+      "example_de": "Er hat das Rennen in sechs Minuten beendet.",
+      "example_tr": "Yarışı altı dakikada bitirdi."
+    },
+    {
+      "word_de": "sieben",
+      "word_tr": "yedi",
+      "example_de": "Sie hat sieben Geschwister.",
+      "example_tr": "Yedi kardeşi var."
+    },
+    {
+      "word_de": "acht",
+      "word_tr": "sekiz",
+      "example_de": "Es gibt acht Stühle um den Tisch herum.",
+      "example_tr": "Masa etrafında sekiz sandalye var."
+    },
+    {
+      "word_de": "neun",
+      "word_tr": "dokuz",
+      "example_de": "Sie hat neun Rosen zu ihrem Geburtstag bekommen.",
+      "example_tr": "Doğum gününde dokuz gül aldı."
+    },
+    {
+      "word_de": "zehn",
+      "word_tr": "on",
+      "example_de": "Es sind zehn Finger an unseren Händen.",
+      "example_tr": "Ellerimizde on parmak var."
+    },
+    {
+      "word_de": "elf",
+      "word_tr": "on bir",
+      "example_de": "Er wurde am elften Mai geboren.",
+      "example_tr": "Mayıs'ın on birinde doğdu."
+    },
+    {
+      "word_de": "zwölf",
+      "word_tr": "on iki",
+      "example_de": "Es gibt zwölf Monate in einem Jahr.",
+      "example_tr": "Bir yılda on iki ay vardır."
+    },
+    {
+      "word_de": "dreizehn",
+      "word_tr": "on üç",
+      "example_de": "Sie ist letzte Woche dreizehn geworden.",
+      "example_tr": "Geçen hafta on üç yaşına girdi."
+    },
+    {
+      "word_de": "vierzehn",
+      "word_tr": "on dört",
+      "example_de": "Er ist vierzehn Jahre alt.",
+      "example_tr": "O, on dört yaşında."
+    },
+    {
+      "word_de": "fünfzehn",
+      "word_tr": "on beş",
+      "example_de": "Sie ist fünfzehn Jahre alt.",
+      "example_tr": "O, on beş yaşında."
+    },
+    {
+      "word_de": "sechzehn",
+      "word_tr": "on altı",
+      "example_de": "Er wird nächsten Monat sechzehn.",
+      "example_tr": "Gelecek ay on altı yaşına girecek."
+    },
+    {
+      "word_de": "siebzehn",
+      "word_tr": "on yedi",
+      "example_de": "Sie ist siebzehn Jahre alt.",
+      "example_tr": "O, on yedi yaşında."
+    },
+    {
+      "word_de": "achtzehn",
+      "word_tr": "on sekiz",
+      "example_de": "Er wird nächstes Jahr achtzehn.",
+      "example_tr": "Gelecek yıl on sekiz yaşına gelecek."
+    },
+    {
+      "word_de": "neunzehn",
+      "word_tr": "on dokuz",
+      "example_de": "Sie ist letzten Monat neunzehn geworden.",
+      "example_tr": "Geçen ay on dokuz yaşına girdi."
+    },
+    {
+      "word_de": "zwanzig",
+      "word_tr": "yirmi",
+      "example_de": "Es sind zwanzig Schüler im Klassenzimmer.",
+      "example_tr": "Sınıfta yirmi öğrenci var."
+    },
+    {
+      "word_de": "einundzwanzig",
+      "word_tr": "yirmi bir",
+      "example_de": "Sie ist einundzwanzig Jahre alt.",
+      "example_tr": "O, yirmi bir yaşında."
+    },
+    {
+      "word_de": "dreißig",
+      "word_tr": "otuz",
+      "example_de": "Er wird nächstes Jahr dreißig.",
+      "example_tr": "Gelecek yıl otuz yaşına gelecek."
+    },
+    {
+      "word_de": "zweiunddreißig",
+      "word_tr": "otuz iki",
+      "example_de": "Der Marathon ist zweiunddreißig Kilometer lang.",
+      "example_tr": "Maraton otuz iki kilometre uzunluğunda."
+    },
+    {
+      "word_de": "vierzig",
+      "word_tr": "kırk",
+      "example_de": "Sie ist in ihren Vierzigern.",
+      "example_tr": "Kırklı yaşlarında."
+    },
+    {
+      "word_de": "dreiundvierzig",
+      "word_tr": "kırk üç",
+      "example_de": "Er ist dreiundvierzig Jahre alt.",
+      "example_tr": "O, kırk üç yaşında."
+    },
+    {
+      "word_de": "fünfzig",
+      "word_tr": "elli",
+      "example_de": "Sie ist letztes Jahr fünfzig geworden.",
+      "example_tr": "Geçen yıl elli yaşına girdi."
+    },
+    {
+      "word_de": "vierundfünfzig",
+      "word_tr": "elli dört",
+      "example_de": "Er ist vierundfünfzig Jahre alt.",
+      "example_tr": "O, elli dört yaşında."
+    },
+    {
+      "word_de": "sechzig",
+      "word_tr": "altmış",
+      "example_de": "Sie wird in den Ruhestand gehen, wenn sie sechzig wird.",
+      "example_tr": "Altışında emekli olacak."
+    },
+    {
+      "word_de": "fünfundsechzig",
+      "word_tr": "altmış beş",
+      "example_de": "Er ist fünfundsechzig Jahre alt.",
+      "example_tr": "O, altmış beş yaşında."
+    },
+    {
+      "word_de": "siebzig",
+      "word_tr": "yetmiş",
+      "example_de": "Sie wird nächstes Jahr ihren siebzigsten Geburtstag feiern.",
+      "example_tr": "Gelecek yıl yetmişinci doğum gününü kutlayacak."
+    },
+    {
+      "word_de": "sechsundsiebzig",
+      "word_tr": "yetmiş altı",
+      "example_de": "Er ist sechsundsiebzig Jahre alt.",
+      "example_tr": "O, yetmiş altı yaşında."
+    },
+    {
+      "word_de": "achtzig",
+      "word_tr": "seksen",
+      "example_de": "Sie wird nächstes Jahr achtzig.",
+      "example_tr": "Gelecek yıl seksen yaşına gelecek."
+    },
+    {
+      "word_de": "siebenundachtzig",
+      "word_tr": "seksen yedi",
+      "example_de": "Er ist siebenundachtzig Jahre alt.",
+      "example_tr": "O, seksen yedi yaşında."
+    },
+    {
+      "word_de": "neunzig",
+      "word_tr": "doksan",
+      "example_de": "Sie wird nächsten Monat neunzig.",
+      "example_tr": "Gelecek ay doksan yaşına girecek."
+    },
+    {
+      "word_de": "neunundneunzig",
+      "word_tr": "doksan dokuz",
+      "example_de": "Er ist neunundneunzig Jahre alt.",
+      "example_tr": "O, doksan dokuz yaşında."
+    },
+    {
+      "word_de": "hundert",
+      "word_tr": "yüz",
+      "example_de": "Es sind hundert Menschen im Raum.",
+      "example_tr": "Odada yüz kişi var."
+    }
+  ]
+}
