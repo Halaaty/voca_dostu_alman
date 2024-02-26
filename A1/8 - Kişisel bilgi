@@ -1,0 +1,76 @@
+{
+  "words": [
+    {
+      "word_de": "Name",
+      "word_tr": "isim",
+      "example_de": "Wie ist Ihr Name?",
+      "example_tr": "İsminiz nedir?"
+    },
+    {
+      "word_de": "Nachname",
+      "word_tr": "soyadı",
+      "example_de": "Bitte schreiben Sie hier Ihren Nachnamen.",
+      "example_tr": "Lütfen soyadınızı buraya yazın."
+    },
+    {
+      "word_de": "Alter",
+      "word_tr": "yaş",
+      "example_de": "Sie ist sechs Jahre alt.",
+      "example_tr": "O, altı yaşında."
+    },
+    {
+      "word_de": "Adresse",
+      "word_tr": "adres",
+      "example_de": "Können Sie mir Ihre Adresse geben?",
+      "example_tr": "Adresinizi verebilir misiniz?"
+    },
+    {
+      "word_de": "Geburtstag",
+      "word_tr": "doğum günü",
+      "example_de": "Wir feiern ihren Geburtstag am Samstag.",
+      "example_tr": "Cumartesi günü doğum gününü kutluyoruz."
+    },
+    {
+      "word_de": "Geburtsdatum",
+      "word_tr": "doğum tarihi",
+      "example_de": "Ihr Geburtsdatum ist in den offiziellen Aufzeichnungen.",
+      "example_tr": "Doğum tarihi resmi kayıtlarda bulunuyor."
+    },
+    {
+      "word_de": "ledig",
+      "word_tr": "bekar",
+      "example_de": "Er ist derzeit ledig.",
+      "example_tr": "Şu anda bekar."
+    },
+    {
+      "word_de": "verheiratet",
+      "word_tr": "evli",
+      "example_de": "Sie sind seit zehn Jahren glücklich verheiratet.",
+      "example_tr": "Onlar on yıldır mutlu bir şekilde evli."
+    },
+    {
+      "word_de": "Reisepass",
+      "word_tr": "pasaport",
+      "example_de": "Bitte legen Sie Ihren Reisepass zur Überprüfung vor.",
+      "example_tr": "Lütfen doğrulama için pasaportunuzu sağlayın."
+    },
+    {
+      "word_de": "Telefonnummer",
+      "word_tr": "telefon numarası",
+      "example_de": "Kann ich bitte Ihre Telefonnummer haben?",
+      "example_tr": "Telefon numaranızı alabilir miyim, lütfen?"
+    },
+    {
+      "word_de": "Frage",
+      "word_tr": "soru",
+      "example_de": "Haben Sie Fragen?",
+      "example_tr": "Herhangi bir sorunuz var mı?"
+    },
+    {
+      "word_de": "Antwort",
+      "word_tr": "cevap",
+      "example_de": "Bitte schreiben Sie Ihre Antwort in das vorgesehene Feld.",
+      "example_tr": "Lütfen cevabınızı sağlanan alana yazın."
+    }
+  ]
+}
